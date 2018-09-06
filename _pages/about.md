@@ -24,12 +24,4 @@ spotlight_b:
   </p>
   {% endcapture %}
   {% include components/spotlight.html settings=page.spotlight_b content=content image="/images/headshots/lucky.jpg"  %}
-
-  {% capture content %}
-  <h2>Teagan</h2>
-  <p>
-    Teagan is International Ms Bootblack 2018. As an educator, Teagan feels its important for everyone to know how to take care of their leather. Leather care isn't just for professionals, it's for everyone. She teaches both basic and advanced leather care classes all over the United States.
-  </p>
-  {% endcapture %}
-  {% include components/spotlight.html settings=page.spotlight_b content=content image="/images/headshots/teagan.jpg"  %}
 </div>
