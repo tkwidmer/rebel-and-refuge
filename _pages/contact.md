@@ -1,31 +1,30 @@
 ---
-layout: default
+layout: container
 title: Contact
 permalink: '/contact/'
 ---
-<section class="wrapper style1 align-center">
-	<div class="inner medium">
-		<h2>Get in touch</h2>
-		<form method="POST" action="http://formspree.io/rebelandrefuge@gmail.com">
-      <input type="hidden" name="_subject" value="New submission!" />
-      <input type="hidden" name="_next" value="http://www.rebelandrefuge.com/contact/success" />
+<div class='row'>
+	<div class="col-8">
+		<h2 class="mt-5">Get in touch</h2>
+
+		<form class="mt-5" method="POST" action="http://formspree.io/rebelandrefuge@gmail.com">
+		  <input type="hidden" name="_subject" value="New submission!" />
+		  <input type="hidden" name="_next" value="http://www.rebelandrefuge.com/contact/success" />
 			<div class="fields">
-				<div class="field half">
+				<div class="form-group">
 					<label for="name">Name</label>
-					<input type="text" name="name" id="name" value="" />
+					<input type="text" name="name" id="name" class='form-control' value="" />
 				</div>
-				<div class="field half">
+				<div class="form-group">
 					<label for="email">Email</label>
-					<input type="email" name="email" id="email" value="" />
+					<input type="email" name="email" id="email" class='form-control' value="" />
 				</div>
-				<div class="field">
+				<div class="form-group">
 					<label for="message">Message</label>
-					<textarea name="message" id="message" rows="6"></textarea>
+					<textarea name="message" id="message" class='form-control' rows="6"></textarea>
 				</div>
 			</div>
-			<ul class="actions special">
-				<li><input type="submit" name="submit" id="submit" value="Send Message" /></li>
-			</ul>
+			<input type="submit" name="submit" id="submit" class="btn btn-primary" value="Send Message" />
 		</form>
 	</div>
-</section>
+</div>

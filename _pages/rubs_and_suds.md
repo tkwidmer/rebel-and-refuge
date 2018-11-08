@@ -1,53 +1,41 @@
 ---
-layout: default
-title: About The Contest
+layout: container
+title: Rebel Rubs and Suds
 permalink: '/rubs-and-suds/'
 hide_title: true
 
-items:
-  style: 1
-  size: medium
-  onscroll: fade-in
-
-spotlight_b:
-  style: 1
-  orient: left
-  content_align: left
-  onscroll_image: fade-in
-
-spotlight_a:
-  style: 1
-  orient: right
-  content_align: left
-  onscroll_image: fade-in
 ---
 
-<div>
-  {% capture content %}
-  <h2>Rebel Rubs</h2>
-  <p>
-    Hand made in small batches in Portland Oregon, Rebel Rubs is an all organic and all natural leather conditioner. Made from a bee's wax base, it contains shelf stable coconut oil. It's safe to use on lightly colored leathers like white and tan and it will not darken the leather. It's safe to use on softer leathers like garments and boots that do not take a shine. It protects against mold and mildew and helps to waterproof leather. To use, simply apply a small portion with your hands and massage into the leather.
-  </p>
+<div class='row mt-5'>
+  <div class="col-md-6">
+    <img class="img-fluid" src="/images/product/rubs.jpg">
+  </div>
+  <div class="col-md-6">
+    <h2>Rebel Rubs</h2>
+    <p>
+      Hand made in small batches in Portland Oregon, Rebel Rubs is an all organic and all natural leather conditioner. Made from a bee's wax base, it contains shelf stable coconut oil. It's safe to use on lightly colored leathers like white and tan and it will not darken the leather. It's safe to use on softer leathers like garments and boots that do not take a shine. It protects against mold and mildew and helps to waterproof leather. To use, simply apply a small portion with your hands and massage into the leather.
+    </p>
 
-  <p>
-    Allergy Notification: Contains Coconut.
-  </p>
+    <p>
+      Allergy Notification: Contains Coconut.
+    </p>
 
-  <a href="/shop" class="button">Buy Now</a>
+    <a href="/shop" class="btn btn-outline-dark">Buy Now</a>
+  </div>
+</div>
 
-  {% endcapture %}
-  {% include components/spotlight.html settings=page.spotlight_b content=content image="/images/product/rubs.jpg"  %}
+<div class='row mt-5'>
+  <div class="col-md-6">
+    <h2>Rebel Suds</h2>
+    <p>
+      Rebel Suds is hand made in Portland Oregon. This glycerine based soap is perfect for all types of leather. It cleans, disinfects, deodorizes, and protects against mold, mildew, and fungus. To use it, just lather up a brush and apply to the leather. Wipe it off after you're done. It's as simple as that.
+    </p>
 
-  {% capture content %}
-  <h2>Rebel Suds</h2>
-  <p>
-    Rebel Suds is hand made in Portland Oregon. This glycerine based soap is perfect for all types of leather. It cleans, disinfects, deodorizes, and protects against mold, mildew, and fungus. To use it, just lather up a brush and apply to the leather. Wipe it off after you're done. It's as simple as that.
-  </p>
-
-  <a href="/shop" class="button">Buy Now</a>
-
-  {% endcapture %}
-  {% include components/spotlight.html settings=page.spotlight_a content=content image="/images/product/soap.jpg"  %}
+    <a href="/shop" class="btn btn-outline-dark">Buy Now</a>
+  </div>
+  <div class="col-md-6">
+    <img class="img-fluid" src="/images/product/soap.jpg">
+  </div>
 </div>
 
 <section class="wrapper style3 small align-center">
@@ -113,6 +101,5 @@ spotlight_a:
       {% endcapture %}
       {% assign content = content | push: x %}
 
-    {% include components/items.html settings=page.items items=content %}
   </div>
 </section>
