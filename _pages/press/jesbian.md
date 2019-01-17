@@ -1,22 +1,11 @@
 ---
-layout: new
+layout: press
 title: Jesbian Press Pack
 permalink: '/press/jesbian/'
-hide_title: true
+feature_photo: '/images/headshots/jesbian.jpg'
 
-spotlight_a:
-  style: 1
-  orient: right
-  content_align: left
-  onscroll_image: fade-in
-
-spotlight_b:
-  style: 1
-  orient: left
-  content_align: left
-  onscroll_image: fade-in
 ---
-<div>
+<div class="mt-5">
   <h2>Jesbian</h2>
   <p>
   Jesbian Bagheera is a leather femme dandy. She switches as a cigar aficionado and can be seen getting down and dirty at the SF Eagle bootblack stand. When she is not up to her knees in shenanigans and sass, she is volunteering with The SF Little Scouts, the SF girls of Leather, and the SF Bay Area Leather Alliance. She has been licking leathers and force feeding cupcakes in the community since 2011. She previously held the title International Little Miss Little 2014 and Ms California Leather 2017. She continues to advocate for Leather Littles everywhere while continuing to build her education directory V.I.V.I.D. Leather for POC visibility.

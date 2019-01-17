@@ -20,7 +20,7 @@ hide_title: true
       Allergy Notification: Contains Coconut.
     </p>
 
-    <a href="/shop" class="btn btn-outline-dark">Buy Now</a>
+    <a class="gumroad-button" href="https://gum.co/rebelrubs" target="_blank">Buy my product</a>
   </div>
 </div>
 
@@ -31,14 +31,16 @@ hide_title: true
       Rebel Suds is hand made in Portland Oregon. This glycerine based soap is perfect for all types of leather. It cleans, disinfects, deodorizes, and protects against mold, mildew, and fungus. To use it, just lather up a brush and apply to the leather. Wipe it off after you're done. It's as simple as that.
     </p>
 
-    <a href="/shop" class="btn btn-outline-dark">Buy Now</a>
+    <a class="gumroad-button" href="https://gum.co/rebelsuds" target="_blank">Buy my product</a>
   </div>
   <div class="col-md-6">
     <img class="img-fluid" src="/images/product/soap.jpg">
   </div>
 </div>
 
-<section class="wrapper style3 small align-center">
+<div class="mt-5"></div>
+
+<!-- <section class="wrapper style3 small align-center">
   <div class="inner">
     <br />
     <h2>Testimonials</h2>
@@ -102,4 +104,4 @@ hide_title: true
       {% assign content = content | push: x %}
 
   </div>
-</section>
+</section> -->
