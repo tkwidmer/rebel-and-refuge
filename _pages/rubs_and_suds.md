@@ -6,6 +6,29 @@ hide_title: true
 
 ---
 
+<div class="row mt-5">
+  <div clas="col-12">
+    <h1> Rebel Rubs and Suds </h1>
+  </div>
+</div>
+
+<div class="row mt-5">
+  <div class="col-6">
+    <div class="blockquote">
+      <p>"Rebel Suds quickly became my go-to leather soap from the first time I used it. It produces a rich lather for whisking dirt away, and wipes off leaving no residue. It’s the only leather cleaner for me!"</p>
+
+      <footer class="blockquote-footer"> Dara, <cite title="Source Title">International Ms Bootblack 2014 </cite></footer>
+    </div>
+  </div>
+  <div class="col-6">
+    <div class="blockquote">
+      <p>"I LOOOOOOVE Rebel Rubs and Suds! Only product I used during my year as IMBB2016. It leaves the leather not only looking fresh and clean but it smells INCREDIBLE."</p>
+
+      <footer class="blockquote-footer"> Erick Joseph, <cite title="Source Title">International Mr Bootblack 2016 </cite></footer>
+    </div>
+  </div>
+</div>
+
 <div class='row mt-5'>
   <div class="col-md-6">
     <img class="img-fluid" src="/images/product/rubs.jpg">
