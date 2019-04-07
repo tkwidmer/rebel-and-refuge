@@ -1,5 +1,5 @@
 ---
-layout: container
+layout: press
 title: "Teagan"
 permalink: '/education/teagan/'
 feature_photo: '/images/headshots/teagan_two.jpg'
