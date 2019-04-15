@@ -8,6 +8,8 @@ permalink: '/posts/imsbb-stepdown-2019/'
 
 <div class="mt-5"></div>
 
+## Teagan's IMsBB 2018 Stepdown Speech
+
 Good Evening.
 
 Sharrin and Pat told me I only have 8-12 minutes, so I’m going to try to use this time as effectively as possible. I put the text of my speech into the “Read-O-Meter,” and have verified that it’s about 13 minutes… I’m sorry Sharrin. I owe you a minute. That means i’m going to be skipping a lot of the normal step down platitudes and thank yous. I’ll just say a couple of things of that nature. Please refer to my step down letter in the program for more.
