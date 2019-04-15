@@ -1,9 +1,12 @@
 ---
-layout:     new_post
+layout:     container
 title:      "Teagan's IMsBB 2018 Stepdown Speech!"
 date:       2019-04-14 12:00:00
 author:     "Teagan"
+permalink: '/posts/imsbb-stepdown-2019/'
 ---
+
+<div class="mt-5"></div>
 
 Good Evening.
 
