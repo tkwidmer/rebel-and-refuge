@@ -10,6 +10,8 @@ permalink: '/posts/imsbb-stepdown-2019/'
 
 ## Teagan's IMsBB 2018 Stepdown Speech
 
+<a href="https://youtu.be/PojKu9FCyrg"> Video Link </a>
+
 Good Evening.
 
 Sharrin and Pat told me I only have 8-12 minutes, so I’m going to try to use this time as effectively as possible. I put the text of my speech into the “Read-O-Meter,” and have verified that it’s about 13 minutes… I’m sorry Sharrin. I owe you a minute. That means i’m going to be skipping a lot of the normal step down platitudes and thank yous. I’ll just say a couple of things of that nature. Please refer to my step down letter in the program for more.
@@ -131,7 +133,7 @@ I wish Sailor and Logan could have been here to see this. I bring them up becaus
 
 It has been truly my honor to hold this title for the past year. To bear witness to the growth of the trans community inside our leather community. To join the ranks of so many bootblacks I admire both in skill but as people.
 
-This is the end of an chapter for me. While I know I will continue to be involved, the last five years of my life were consumed by running for this title. Holding this title was always the goal for me. For somebody who is only 30 years old that means 1/6th of my life has been spent learning to Bootblack, holding lower titles and then running for and holding this title.
+This is the end of a chapter for me. While I know I will continue to be involved, the last five years of my life were consumed by running for this title. Holding this title was always the goal for me. For somebody who is only 30 years old that means 1/6th of my life has been spent learning to Bootblack, holding lower titles and then running for and holding this title.
 
 This organization is a special place. The IMsLBB organization is what kept me in leather.
 
