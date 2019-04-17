@@ -14,6 +14,12 @@ feature_photo: '/images/headshots/teagan_two.jpg'
 
 <div class="mt-3"> </div>
 
+### Titles
+
+- International Ms Bootblack 2018
+- Southwest Bootblack 2017
+- Southern California Bootblack 2016
+
 ### Bio
 
 Teagan fell in love with bootblacking at a young age, doing her shoes before church. Although these days her skills are being put to more salacious uses, she still identifies as a spiritual bootblack. For her, bootblacking harkens back to the foot-washing ritual. Teagan is International Ms Bootblack 2018, and the 20th person to hold that title. She is based in Oakland, CA. During her title year she invited our community to "Take Refuge" in the capable hands of our bootblacks. She's the owner and executive producer of the San Francisco Bootblack Contest.
@@ -27,6 +33,13 @@ to the leather community. She can be found presenting around the world about Boo
 D/s relationships, and how to make your play hotter.
 
 For information about the classes Teagan teaches, please visit her [education summary](/education/teagan).
+
+
+### Affiliations and Memberships
+
+- The Exiles, 2016-Present
+- SF Bay Area Leather Alliance, Individual Director 2017-Present
+- International Ms Leather Foundation Board. 2019-Present
 
 ### Previous Judging Experience
 
