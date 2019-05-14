@@ -4,7 +4,7 @@ title: SF Eagle Bootblack Schedule
 permalink: '/sf-eagle-bb-schedule/'
 ---
 
-<h1> San Francisco Eagle Bootblack Schedule </h1>
+<h1 class="mt-5"> San Francisco Eagle Bootblack Schedule </h1>
 
 The world famous San Francisco Eagle is one of the best oportunities to bootblack in the bay area. There are four shifts availible to book every weekend. The Beer Bust is always a popular attraction and will provide you with one of the busiest shifts you've probably ever worked. 
 
