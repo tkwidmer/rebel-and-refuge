@@ -17,14 +17,14 @@ permalink: '/shop/'
     <h5> Rebel Suds </h5>
     <img class="img-fluid" src="/images/product/soap.jpg" />
     <div class="mt-3"> </div>
-    <a class="gumroad-button" href="https://gum.co/rebelsuds" target="_blank">Add To Cart</a>
+    <!-- <a class="gumroad-button" href="https://gum.co/rebelsuds" target="_blank">Add To Cart</a> -->
   </div>
 
   <div class="col-6 col-md-4">
     <h5> Rebel Rubs </h5>
     <img class="img-fluid" src="/images/product/rubs.jpg" />
     <div class="mt-3"> </div>
-    <a class="gumroad-button" href="https://gum.co/rebelrubs" target="_blank">Add To Cart</a>
+    <!-- <a class="gumroad-button" href="https://gum.co/rebelrubs" target="_blank">Add To Cart</a> -->
   </div>
 </div>
 
