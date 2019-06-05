@@ -1,7 +1,7 @@
 ---
 layout: container
 title: SF Eagle Bootblack Schedule
-permalink: '/sf-eagle-bb-schedule/'
+permalink: '/sfeagle/'
 ---
 
 <h1 class="mt-5"> San Francisco Eagle Bootblack Schedule </h1>
