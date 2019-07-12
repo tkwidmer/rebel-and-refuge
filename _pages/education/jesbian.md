@@ -32,6 +32,9 @@ feature_photo_two: "/images/headshots/jesbian_two.jpg"
     <h4> Play </h4>
     <ul>
       <li>
+        <b><a href="/classes/playing-with-my-food/"> Playing With My Food </a></b>
+      </li>
+      <li>
         <b><a href="/classes/let-it-burn/"> Let it Burn: Cell Popping and Micro Strike Branding</a></b>
       </li>
       <li>
