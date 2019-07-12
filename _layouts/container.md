@@ -2,6 +2,6 @@
 layout: default
 ---
 
-<div class="container">
+<div class="container mt-3">
   {{ content }}
 </div>
