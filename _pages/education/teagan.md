@@ -41,6 +41,10 @@ feature_photo: '/images/headshots/teagan_two.jpg'
     <h4> Play </h4>
     <ul>
       <li>
+        <b><a href="/classes/put-a-hood-on-it/"> Put a Hood On It</a></b><br>
+        Format: Lecture / Demo / Hands On Exploration
+      </li>
+      <li>
         <b><a href="/classes/under_my_boot/"> Under My Boot: Stomping and Bootplay for D/s</a></b><br>
         Format: Lecture / Demo / Discussion / Partnered Exploration
       </li>

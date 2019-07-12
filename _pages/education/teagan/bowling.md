@@ -1,6 +1,6 @@
 ---
 layout: container
-title: "The Doctor Is In: Spiritual Leather Care"
+title: "Bowling With Bumpers"
 permalink: '/classes/bowling-with-bumpers/'
 ---
 
